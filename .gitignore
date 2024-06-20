@@ -1,2 +1,5 @@
 # Packages folder from Node.js
 node_modules
+
+# Environment files storing private data
+.env
